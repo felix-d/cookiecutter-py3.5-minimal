@@ -1,0 +1,9 @@
+{
+    "author_name": "Felix Descoteaux",
+    "author_email": "flx.descoteaux@gmail.com",
+    "package_name": "py-minimal",
+    "project_slug": "py_minimal",
+    "package_version": "0.1.0",
+    "package_description": "A minimal cookiecutter template for Python packages",
+    "package_url": "https://github.com/felix-d/cookiecutter-py-minimal"
+}
